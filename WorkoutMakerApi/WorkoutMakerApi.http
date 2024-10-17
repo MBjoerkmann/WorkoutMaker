@@ -1,0 +1,6 @@
+@WorkoutMakerApi_HostAddress = http://localhost:5133
+
+GET {{WorkoutMakerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i9PZK/389QnQyTkj4ENA/fE/GYOmqzMC9/WW6Nkw8r0=",
+  "Source": "WorkoutMakerApi",
+  "BasePath": "_content/WorkoutMakerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
