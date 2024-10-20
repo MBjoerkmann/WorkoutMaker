@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkoutMakerApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0997625ce3fffe81319fbd3c4ee12d05ce55cf9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06a35f1f025786a6751cb39c764189b42b4c268d")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkoutMakerApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkoutMakerApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
